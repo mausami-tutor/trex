@@ -20,7 +20,7 @@ function preload(){
   
   groundImage = loadImage("ground2.png");
   
-  cloudImage = loadImage("cloud.png");
+  cloudImage = loadImage("cloud for trex.png");
   
   obstacle1 = loadImage("obstacle1.png");
   obstacle2 = loadImage("obstacle2.png");
